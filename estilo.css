@@ -18,6 +18,10 @@ h1, h2 {
     margin: 0;
 }
 
+a {
+    color: #f4f4f4;
+}
+
 section {
     margin: 20px auto;
     padding: 10px;
